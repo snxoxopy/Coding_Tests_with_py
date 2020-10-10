@@ -1,6 +1,7 @@
 """
 20201009
 Exercise shadowing the code;
+* Depth-First Search by using the recursive function
 A Definition of Depth-First Search
 from https://github.com/ndb796/python-for-coding-test/blob/master/5/9.py
 """
